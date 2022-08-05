@@ -1,0 +1,12 @@
+.currency__field {
+    display: inline-block;
+}
+
+.currency__amount {
+    padding: .4rem;
+}
+
+.currency__name {
+    margin-left: 2px;
+    padding: .4rem;
+}
